@@ -1,0 +1,508 @@
+Data inserted.	Highest priority:484406
+Data inserted.	Highest priority:887450
+Data inserted.	Highest priority:887450
+Data inserted.	Highest priority:887450
+Data inserted.	Highest priority:887450
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:981020
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Data inserted.	Highest priority:999829
+Leftist Heap 1 property checked.
+Leftist Heap 2 property checked.
+Leftist heap 1 size before merge: 165
+Leftist heap 2 size before merge: 165
+Leftist heap 1 size after merge: 330
+Leftist heap 2 size after merge: 0
+Leftist Heap 1 property checked.
+Highest priority: 1563078
+Highest priority: 1105980
+Highest priority: 1016773
+Highest priority: 999829
+Highest priority: 999829
+Highest priority: 993570
+Highest priority: 993570
+Highest priority: 983340
+Highest priority: 983340
+Highest priority: 981020
+Highest priority: 981020
+Highest priority: 972546
+Highest priority: 960433
+Highest priority: 960433
+Highest priority: 943556
+Highest priority: 943556
+Highest priority: 942979
+Highest priority: 942979
+Highest priority: 937940
+Highest priority: 937940
+Highest priority: 936846
+Highest priority: 936846
+Highest priority: 936069
+Highest priority: 936069
+Highest priority: 934790
+Highest priority: 934790
+Highest priority: 934517
+Highest priority: 934517
+Highest priority: 928349
+Highest priority: 928349
+Highest priority: 927944
+Highest priority: 927944
+Highest priority: 918205
+Highest priority: 918205
+Highest priority: 908049
+Highest priority: 908049
+Highest priority: 895309
+Highest priority: 895309
+Highest priority: 887450
+Highest priority: 887450
+Highest priority: 881424
+Highest priority: 876047
+Highest priority: 876047
+Highest priority: 872927
+Highest priority: 872927
+Highest priority: 868359
+Highest priority: 868359
+Highest priority: 867576
+Highest priority: 867576
+Highest priority: 867286
+Highest priority: 867286
+Highest priority: 864059
+Highest priority: 864059
+Highest priority: 860917
+Highest priority: 860917
+Highest priority: 858058
+Highest priority: 858058
+Highest priority: 855493
+Highest priority: 855493
+Highest priority: 839120
+Highest priority: 839120
+Highest priority: 826113
+Highest priority: 826113
+Highest priority: 823822
+Highest priority: 823822
+Highest priority: 815326
+Highest priority: 809540
+Highest priority: 809540
+Highest priority: 803650
+Highest priority: 803650
+Highest priority: 798191
+Highest priority: 798191
+Highest priority: 786886
+Highest priority: 786886
+Highest priority: 784387
+Highest priority: 784387
+Highest priority: 781378
+Highest priority: 781378
+Highest priority: 777953
+Highest priority: 777953
+Highest priority: 766799
+Highest priority: 766799
+Highest priority: 751524
+Highest priority: 747021
+Highest priority: 747021
+Highest priority: 744126
+Highest priority: 744126
+Highest priority: 731389
+Highest priority: 731389
+Highest priority: 730228
+Highest priority: 730228
+Highest priority: 728847
+Highest priority: 728847
+Highest priority: 725346
+Highest priority: 725346
+Highest priority: 724536
+Highest priority: 724536
+Highest priority: 719306
+Highest priority: 719306
+Highest priority: 714329
+Highest priority: 714329
+Highest priority: 708897
+Highest priority: 708897
+Highest priority: 708601
+Highest priority: 708601
+Highest priority: 702385
+Highest priority: 702385
+Highest priority: 697747
+Highest priority: 691180
+Highest priority: 691180
+Highest priority: 686503
+Highest priority: 686503
+Highest priority: 669031
+Highest priority: 669031
+Highest priority: 661786
+Highest priority: 661786
+Highest priority: 659395
+Highest priority: 659395
+Highest priority: 648678
+Highest priority: 648678
+Highest priority: 647992
+Highest priority: 647992
+Highest priority: 638487
+Highest priority: 638487
+Highest priority: 628204
+Highest priority: 616904
+Highest priority: 616904
+Highest priority: 615344
+Highest priority: 608924
+Highest priority: 608924
+Highest priority: 603647
+Highest priority: 603647
+Highest priority: 600659
+Highest priority: 600659
+Highest priority: 596307
+Highest priority: 596307
+Highest priority: 584934
+Highest priority: 584934
+Highest priority: 566996
+Highest priority: 558590
+Highest priority: 558590
+Highest priority: 551055
+Highest priority: 551055
+Highest priority: 540142
+Highest priority: 540142
+Highest priority: 531894
+Highest priority: 531894
+Highest priority: 522770
+Highest priority: 522770
+Highest priority: 521384
+Highest priority: 512483
+Highest priority: 512483
+Highest priority: 508074
+Highest priority: 508074
+Highest priority: 505919
+Highest priority: 505919
+Highest priority: 502388
+Highest priority: 502388
+Highest priority: 484406
+Highest priority: 484406
+Highest priority: 480657
+Highest priority: 480657
+Highest priority: 476707
+Highest priority: 476707
+Highest priority: 473190
+Highest priority: 473190
+Highest priority: 468534
+Highest priority: 468534
+Highest priority: 465078
+Highest priority: 465078
+Highest priority: 462204
+Highest priority: 462204
+Highest priority: 450129
+Highest priority: 450129
+Highest priority: 448118
+Highest priority: 448118
+Highest priority: 445647
+Highest priority: 431163
+Highest priority: 431163
+Highest priority: 426733
+Highest priority: 426733
+Highest priority: 419095
+Highest priority: 419095
+Highest priority: 407423
+Highest priority: 407423
+Highest priority: 406951
+Highest priority: 406951
+Highest priority: 398566
+Highest priority: 398566
+Highest priority: 382598
+Highest priority: 382598
+Highest priority: 378001
+Highest priority: 378001
+Highest priority: 377062
+Highest priority: 377062
+Highest priority: 375165
+Highest priority: 368541
+Highest priority: 368541
+Highest priority: 366349
+Highest priority: 366349
+Highest priority: 358487
+Highest priority: 358487
+Highest priority: 351389
+Highest priority: 351389
+Highest priority: 350167
+Highest priority: 350167
+Highest priority: 348236
+Highest priority: 348236
+Highest priority: 346754
+Highest priority: 346754
+Highest priority: 342271
+Highest priority: 342271
+Highest priority: 331934
+Highest priority: 331934
+Highest priority: 329038
+Highest priority: 329038
+Highest priority: 325712
+Highest priority: 325712
+Highest priority: 324140
+Highest priority: 324140
+Highest priority: 323568
+Highest priority: 323568
+Highest priority: 320768
+Highest priority: 320768
+Highest priority: 313192
+Highest priority: 312921
+Highest priority: 312921
+Highest priority: 311615
+Highest priority: 311615
+Highest priority: 303603
+Highest priority: 303603
+Highest priority: 289925
+Highest priority: 289925
+Highest priority: 288898
+Highest priority: 288898
+Highest priority: 277186
+Highest priority: 277186
+Highest priority: 276359
+Highest priority: 276359
+Highest priority: 274056
+Highest priority: 274056
+Highest priority: 273674
+Highest priority: 273674
+Highest priority: 243430
+Highest priority: 243430
+Highest priority: 241291
+Highest priority: 241291
+Highest priority: 239332
+Highest priority: 239332
+Highest priority: 230685
+Highest priority: 230685
+Highest priority: 229755
+Highest priority: 229755
+Highest priority: 223006
+Highest priority: 223006
+Highest priority: 220745
+Highest priority: 220745
+Highest priority: 206805
+Highest priority: 206805
+Highest priority: 193521
+Highest priority: 193521
+Highest priority: 185335
+Highest priority: 185335
+Highest priority: 182337
+Highest priority: 182337
+Highest priority: 182251
+Highest priority: 182251
+Highest priority: 180546
+Highest priority: 180546
+Highest priority: 177435
+Highest priority: 177435
+Highest priority: 175662
+Highest priority: 175662
+Highest priority: 170312
+Highest priority: 170312
+Highest priority: 170187
+Highest priority: 170187
+Highest priority: 169594
+Highest priority: 169594
+Highest priority: 165060
+Highest priority: 165060
+Highest priority: 161348
+Highest priority: 161348
+Highest priority: 144423
+Highest priority: 144423
+Highest priority: 128801
+Highest priority: 128801
+Highest priority: 119748
+Highest priority: 119748
+Highest priority: 119403
+Highest priority: 119403
+Highest priority: 118222
+Highest priority: 118222
+Highest priority: 117473
+Highest priority: 117473
+Highest priority: 109744
+Highest priority: 109744
+Highest priority: 105898
+Highest priority: 83795
+Highest priority: 83795
+Highest priority: 80191
+Highest priority: 80191
+Highest priority: 73295
+Highest priority: 73295
+Highest priority: 68204
+Highest priority: 68204
+Highest priority: 63343
+Highest priority: 63343
+Highest priority: 53480
+Highest priority: 53480
+Highest priority: 50791
+Highest priority: 50791
+Highest priority: 45544
+Highest priority: 45544
+Highest priority: 43126
+Highest priority: 43126
+Highest priority: 38673
+Highest priority: 38673
+Highest priority: 33025
+Highest priority: 33025
+Highest priority: 31440
+Highest priority: 31440
+Highest priority: 23947
+Highest priority: 23947
+Highest priority: 17570
+Highest priority: 17570
+Highest priority: 301
+Highest priority: 301
+Highest priority: 0
+Highest priority: 0
+Leftist Heap 3 violated.
+Leftist Heap 4 property violated.
+Leftist heap 1 final size: 0
+Leftist heap 2 final size: 0
+Leftist heap 3 final size: 165
+Leftist heap 4 final size: 165
